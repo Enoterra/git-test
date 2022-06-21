@@ -13,6 +13,7 @@ public class Hello {
         System.out.println("hello 1");
         System.out.println("hello 3");
         System.out.println("hot-fix commit");
+        System.out.println("master commit");
     }
 
 }
