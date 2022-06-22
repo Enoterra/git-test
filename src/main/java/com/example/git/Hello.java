@@ -15,6 +15,7 @@ public class Hello {
         System.out.println("hot-fix commit");
         System.out.println("master commit");
         System.out.println("hot-fix commit 2");
+        System.out.println("push to github test");
     }
 
 }
