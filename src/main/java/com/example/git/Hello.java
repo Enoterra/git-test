@@ -17,6 +17,7 @@ public class Hello {
         System.out.println("hot-fix commit 2");
         System.out.println("push to github test");
         System.out.println("push to github ssh test");
+        System.out.println("push to local ssh test");
     }
 
 }
